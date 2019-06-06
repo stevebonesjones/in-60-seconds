@@ -1,12 +1,8 @@
 # CGA-SATURN Performance Review, May 2019
-# Findings
-
+@title[Steve Jones, DBA]
 ---
-
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
-
+## Findings
+![](assets/img/query plan image.png)
 ---
 @title[Customize Slide Layout]
 
